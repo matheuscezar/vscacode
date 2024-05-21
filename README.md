@@ -11,14 +11,18 @@ Here is a SCA plugin for VS Code. Its purpose is to assist developers during the
 - [ ] Parse "grandle"
 - [ ] Parse "package.json"
 
+*Usage:*
 ![Command](./assets/command.jpg "Command")
+*Output:*
 
 ![Output](./assets/output.jpg "Output")
 
 ## Requirements
 
-```npm install fs
-npm install axios```
+```
+npm install fs
+npm install axios
+```
 
 
 **Enjoy!**
