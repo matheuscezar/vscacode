@@ -11,9 +11,9 @@ Here is a SCA plugin for VS Code. Its purpose is to assist developers during the
 - [ ] Parse "grandle"
 - [ ] Parse "package.json"
 
-*Usage:*
+**Usage:**
 ![Command](./assets/command.jpg "Command")
-*Output:*
+**Output:**
 
 ![Output](./assets/output.jpg "Output")
 
